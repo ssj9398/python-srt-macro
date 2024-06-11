@@ -6,3 +6,12 @@
 
 1. 특실 예약이 나올 경우 패스
 2. 팝업창이 뜰 경우 무시
+
+## 파이썬 패키지
+1. python 3.9
+2. selenium 4.0.0
+3. chromedriver-autoinstaller 0.6.4
+
+## 파이썬 패키지 설치 방법
+1. 파이참에서 하단 파이썬 패키지를 통해 설치를 받는다.
+2. cmd에서 pip install 
